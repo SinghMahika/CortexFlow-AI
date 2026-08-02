@@ -2,7 +2,7 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 from typing import Optional
 
 class Settings(BaseSettings):
-    SNOWFLAKE_CORTEX_MODEL: str = "gpt-4o"
+    SNOWFLAKE_CORTEX_MODEL: str = "llama3.1-8b"
     SNOWFLAKE_ACCOUNT: str
     SNOWFLAKE_USER: str
     SNOWFLAKE_TOKEN: str
