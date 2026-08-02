@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langgraph
+langchain-openai
+snowflake-connector-python
+snowflake-snowpark-python
+snowflake-ml-python
+pydantic-settings
+python-dotenv
+pypdf
