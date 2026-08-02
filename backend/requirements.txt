@@ -5,6 +5,7 @@ langchain
 langgraph
 langchain-openai
 snowflake-connector-python
+snowflake-core
 snowflake-snowpark-python
 snowflake-ml-python
 pydantic-settings
